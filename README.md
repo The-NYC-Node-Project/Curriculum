@@ -1,11 +1,11 @@
 # Curriculum
 
 Here is the folder structure and descrition of each folder:
-- `/NYC_Node_Project
-     - /Curriculum
-         - /Engineering
-             - /Module_1
-             - /Module_2
+- `/NYC_Node_Project`
+     - `/Curriculum`
+         - `/Engineering`
+             - `/Module_1`
+             - `/Module_2`
             ...
         - `/Data_Analytics
             - `/Module_1
