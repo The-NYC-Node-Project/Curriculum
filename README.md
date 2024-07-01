@@ -7,29 +7,29 @@ Here is the folder structure and descrition of each folder:
              - `/Module_1
              - `/Module_2
             ...
-        /Data_Analytics
-            /Module_1
-            /Module_2
+        - `/Data_Analytics
+            - `/Module_1
+            - `/Module_2
             ...
-        /AI_ML_Integration
-            /Module_1
-            /Module_2
+        - `/AI_ML_Integration
+            - `/Module_1
+            - `/Module_2
             ...
-    /Resources
-        /Reading_Materials
-        /Videos
-        /Datasets
-    /Tools_and_Software
-        /Code_Snippets
-        /Libraries
-        /APIs
-    /Documentation
-        /Project_Overview
-        /Track_Descriptions
-        /Setup_Guides
-    /Contributors
-        /Bios
-        /Contact_Info
+    - `/Resources
+        - `/Reading_Materials
+        - `/Videos
+        - `/Datasets
+    - `/Tools_and_Software
+        - `/Code_Snippets
+        - `/Libraries
+        - `/APIs
+    - `/Documentation
+        - `/Project_Overview
+        - `/Track_Descriptions
+        - `/Setup_Guides
+    - `/Contributors
+        - `/Bios
+        - `/Contact_Info
 
 ## Description of Each Directory
 
